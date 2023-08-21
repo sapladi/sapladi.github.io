@@ -1,0 +1,173 @@
+.darkwebtr {
+  position: absolute;
+  top: calc(50% - 427px);
+  left: calc(50% - 125px);
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-jockey-one);
+  color: var(--color-black);
+  display: inline-block;
+  width: 250px;
+  height: 53px;
+}
+.iphone-13-13-pro-1-child {
+  top: 88px;
+  left: 43px;
+}
+.iphone-13-13-pro-1-child,
+.iphone-13-13-pro-1-inner,
+.iphone-13-13-pro-1-item {
+  position: absolute;
+  width: 129px;
+  height: 129px;
+  object-fit: cover;
+}
+.iphone-13-13-pro-1-item {
+  top: calc(50% - 334px);
+  left: 210px;
+}
+.iphone-13-13-pro-1-inner {
+  top: 260px;
+  left: 43px;
+}
+.iphone-13-13-pro-1-child1,
+.iphone-13-13-pro-1-child2,
+.rectangle-icon {
+  position: absolute;
+  top: 260px;
+  left: 215px;
+  width: 129px;
+  height: 129px;
+  object-fit: cover;
+}
+.iphone-13-13-pro-1-child1,
+.iphone-13-13-pro-1-child2 {
+  top: 432px;
+  left: 43px;
+}
+.iphone-13-13-pro-1-child2 {
+  left: 211px;
+  width: 137px;
+  height: 137px;
+}
+.ay-yildiz-national-emblem-turk-icon {
+  position: absolute;
+  top: 679px;
+  left: 117px;
+  width: 160px;
+  height: 116px;
+  object-fit: cover;
+}
+.darkwebtrcom {
+  top: 804px;
+  left: 117px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-jomhuria);
+  color: var(--color-black);
+}
+.darkwebtrcom,
+.div,
+.suri-adam {
+  position: absolute;
+}
+.div {
+  top: 224px;
+  left: 72px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.suri-adam {
+  top: 183px;
+  left: 66px;
+  color: var(--color-white);
+  -webkit-text-stroke: 1px #000;
+}
+.div1 {
+  position: absolute;
+  top: 224px;
+  left: 239px;
+}
+.div2,
+.div3,
+.div4,
+.div5 {
+  position: absolute;
+  top: 396px;
+  left: 73px;
+}
+.div3,
+.div4,
+.div5 {
+  left: 245px;
+}
+.div4,
+.div5 {
+  top: 573px;
+  left: 73px;
+}
+.div5 {
+  left: 245px;
+}
+.suri-ayak,
+.suri-el,
+.suri-kadn,
+.suri-kelle,
+.suri-ocuk {
+  position: absolute;
+  color: var(--color-white);
+  -webkit-text-stroke: 1px #000;
+}
+.suri-kadn {
+  top: 183px;
+  left: 228px;
+  display: inline-block;
+  width: 93px;
+}
+.suri-ayak,
+.suri-el,
+.suri-kelle,
+.suri-ocuk {
+  top: 353px;
+  left: 79px;
+}
+.suri-ayak,
+.suri-kelle,
+.suri-ocuk {
+  left: 235px;
+}
+.suri-kelle,
+.suri-ocuk {
+  top: 529px;
+  left: 68px;
+}
+.suri-ocuk {
+  left: 233px;
+}
+.demeler-bitcoin-zerinden {
+  margin: 0;
+}
+.demeler-bitcoin-zerinden-container,
+.dllendirme-sistemi {
+  position: absolute;
+  top: 602px;
+  left: 30px;
+  font-size: 35px;
+  font-family: var(--font-jomhuria);
+  color: var(--color-black);
+}
+.dllendirme-sistemi {
+  top: 45px;
+  left: 145px;
+  font-size: 15px;
+  font-family: var(--font-inter);
+  -webkit-text-stroke: 1px #000;
+}
+.iphone-13-13-pro-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-red);
+  font-family: var(--font-jost);
+}

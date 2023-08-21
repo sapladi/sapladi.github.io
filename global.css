@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-jomhuria: Jomhuria;
+  --font-jost: Jost;
+  --font-jockey-one: "Jockey One";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-red: #e30a17;
+}
